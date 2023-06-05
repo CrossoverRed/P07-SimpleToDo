@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">P07-SimpleToDo</string>
+    <string-array name="spinnerItems">
+        <item>Add a new task</item>
+        <item>Remove a task</item>
+
+    </string-array>
+</resources>
