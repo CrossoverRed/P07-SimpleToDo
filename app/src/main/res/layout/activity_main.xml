@@ -23,6 +23,7 @@
                 android:layout_height="wrap_content"
                 android:text="To Do List:"
                 android:textSize="20sp" />
+
             <Spinner
                 android:id="@+id/spinner"
                 android:layout_width="match_parent"
